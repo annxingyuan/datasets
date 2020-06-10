@@ -208,6 +208,8 @@ for ex in tfds.load('cifar10', split='train'):
 *   [`pg19`](pg19.md)
     <span class="material-icons" title="Available only in the tfds-nightly package">nights_stay</span>
 *   [`qa4mre`](qa4mre.md)
+*   [`reddit_disentanglement`](reddit_disentanglement.md)
+    <span class="material-icons" title="Available only in the tfds-nightly package">nights_stay</span>
 *   [`scan`](scan.md)
 *   [`scicite`](scicite.md)
 *   [`snli`](snli.md)

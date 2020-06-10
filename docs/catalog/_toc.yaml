@@ -333,6 +333,9 @@ toc:
     title: pg19
   - path: /datasets/catalog/qa4mre
     title: qa4mre
+  - path: /datasets/catalog/reddit_disentanglement
+    status: nightly
+    title: reddit_disentanglement (manual)
   - path: /datasets/catalog/scan
     title: scan
   - path: /datasets/catalog/scicite
